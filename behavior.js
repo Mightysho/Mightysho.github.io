@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function(event) {
-    alert('Hello! Mightysho welcome you..!');
+    alert('Hello! Mightysho welcome you..! kindly click on the small image on my profile and see the magic');
 });
 document.addEventListener("DOMContentLoaded", function(event) {
 
