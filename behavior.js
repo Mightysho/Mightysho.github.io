@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function(event) {
     alert('Hello! Mightysho welcome you..!');
-    alert('Kindly click on the small image on my profile.. See the magic.. Click again.. Ignore PopUp after done');
+    alert('Kindly click on the small image on my profile.. See the magic.. Click again.. Ignore PopUp after done.. It will keep coming.');
 });
 document.addEventListener("DOMContentLoaded", function(event) {
 
